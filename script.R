@@ -69,6 +69,44 @@ expand_df <- function(df, fexp = 'fexp'){
 
 eah_2019_e <- expand_df(eah_2019, 'fexp')
 
+# generate rango_etario
+eah_2019_e$rango_etario <- cut(eah_2019_e$edad, breaks = seq(0,100,5),include.lowest = T)
+
+for(i in 1:15){  
+  plot_df <- eah_2019_e %>% 
+    filter(comuna == i) %>% 
+    group_by(sexo, rango_etario) %>% 
+    summarise(total = n())
+  
+  
+  
+  plot_df$total[plot_df$sexo == 1] <-
+    -1 * plot_df$total[plot_df$sexo == 1]
+  
+  
+  plot_df$sexo <- if_else(plot_df$sexo == 1, 'Hombre', 'Mujer')
+  
+  # Determine breaks
+  
+  max_total <- max(plot_df$total)
+  min_total <- min(plot_df$total)
+  by_total <- 1000
+  
+  ggplot(plot_df, aes(x = rango_etario, y = total, fill = sexo))+
+    geom_bar(stat = "identity")+
+    scale_y_continuous(breaks = c(rev(seq(0, min_total, -by_total)), seq(0,max_total, by_total)),
+                        labels =c(rev(seq(0, -min_total, by_total)), seq(0,max_total, by_total)))+
+    coord_flip()+
+    scale_fill_manual(values = c('Hombre' = '#505050', 'Mujer' = '#451063'))+
+    theme_bw()+
+    ggtitle(paste0("Piramide Poblacional de la Comuna ", i))+
+    ylab("Personas")+
+    xlab("Rango etario (años)")+
+    labs(fill = "Sexo")
+  
+  ggsave(paste0('pyramids//comuna_',i,'.png'), width = 15, height = 8)
+}
+
 
 #ploteamos comunas de ejemplo
 # 
