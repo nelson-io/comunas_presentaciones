@@ -97,15 +97,55 @@ for(i in 1:15){
     scale_y_continuous(breaks = c(rev(seq(0, min_total, -by_total)), seq(0,max_total, by_total)),
                         labels =c(rev(seq(0, -min_total, by_total)), seq(0,max_total, by_total)))+
     coord_flip()+
-    scale_fill_manual(values = c('Hombre' = '#505050', 'Mujer' = '#451063'))+
+    scale_fill_manual(values = c('Hombre' = '#434343', 'Mujer' = '#7f6380'))+
     theme_bw()+
     ggtitle(paste0("Piramide Poblacional de la Comuna ", i))+
-    ylab("Personas")+
+    ylab("Habitantes")+
     xlab("Rango etario (años)")+
     labs(fill = "Sexo")
   
   ggsave(paste0('pyramids//comuna_',i,'.png'), width = 15, height = 8)
 }
+
+
+#barplots
+
+actividades <- data.frame(
+  code = 1:10,
+  actividad = c("Industra Manufacturera", "Construcción", "Comercio", "Transporte y alm", "Act.financieras y prof.",
+                "Admin. Pública", "Enseñanza y salud", "Arte y entretenimiento", "Serv. Doméstico", "Otras")
+)
+
+
+eah_2019_e <- eah_2019_e %>%
+  left_join(actividades, by = c('t37_coda_2' = 'code'))
+
+for(i in 1:15){
+  
+  data <- eah_2019_e %>% filter(comuna == i)
+  
+  tot_empleo<- data.frame(table(data$actividad))
+  prop_empleo <- data.frame(prop.table(table(data$actividad)))
+  
+  ggplot(prop_empleo)+
+    geom_col(aes(x = reorder(Var1, Freq), y=Freq), fill = "#f8ce14", col = 'black')+
+    geom_text(aes(x = reorder(Var1, Freq), y=Freq, label = paste0(round(100*Freq,2)," %")),hjust = -.1)+
+    coord_flip()+
+    theme_classic()+
+    theme(axis.title.x=element_blank(),
+          axis.title.y=element_blank(),
+          axis.text.x=element_blank(),
+          axis.ticks.x=element_blank(),
+          line = element_blank(),
+          axis.text.y = element_text(hjust=0, face = 'bold', size = 12.5))+
+    ylim(c(0,.35))
+  
+  ggsave(paste0('employment//comuna_',i,'.png'), width = 10, height = 10)
+  
+}
+
+
+
 
 
 #ploteamos comunas de ejemplo
@@ -188,11 +228,11 @@ for(i in 1:15){
 # 
 # actividades <- data.frame(
 #   code = 1:10,
-#   actividad = c("Industra Manufacturera", "Construcción", "Comercio", "Transporte y alm", "Act.financieras y prof.", 
+#   actividad = c("Industra Manufacturera", "Construcción", "Comercio", "Transporte y alm", "Act.financieras y prof.",
 #                 "Admin. Pública", "Enseñanza y salud", "Arte y entretenimiento", "Serv. Doméstico", "Otras")
 # )
 # 
-# expanded <- expanded %>% 
+# expanded <- expanded %>%
 #   left_join(actividades, by = c('t37_coda_2' = 'code'))
 # 
 # 
@@ -211,7 +251,7 @@ for(i in 1:15){
 #         line = element_blank(),
 #         axis.text.y = element_text(hjust=0, face = 'bold', size = 12.5))+
 #   ylim(c(0,.35))
-# 
+
 # 
 # # read isib db
 # 
