@@ -145,6 +145,52 @@ for(i in 1:15){
 }
 
 
+#importamos datos de censo de comercios
+
+#comercios
+
+comercios <- read_csv('plot_df.csv', locale = locale(encoding = 'UTF-8')) %>% 
+  arrange(comuna, desc(total))
+
+
+# transforaciones
+
+comercios$actividad_comercial[str_detect(comercios$actividad_comercial, 'hogar')] <- 'Artículos para el hogar y construcción'
+comercios$actividad_comercial[str_detect(comercios$actividad_comercial, 'Farmacias')] <- 'Farmacias, perfumerías e insumos médicos'
+comercios$actividad_comercial[str_detect(comercios$actividad_comercial, 'Hoteles')] <- 'Hoteles, geriátricos y alojamiento'
+
+
+for(i in 1:15){
+  
+  data_0 <- comercios %>% filter(comuna == i)
+  
+  data_1 <- data_0 %>% head(19)
+  
+  data_2 <- data_0[c(seq(20,nrow(data))),] %>% 
+    summarise(comuna = i,
+              actividad_comercial = 'Otros',
+              total = sum(total))
+  
+  
+  data <- rbind(data_1, data_2)
+
+  
+  ggplot(data)+
+    geom_col(aes(x = reorder(actividad_comercial, total), y=total), fill = "#f8ce14", col = 'black')+
+    geom_text(aes(x = reorder(actividad_comercial, total), y=total, label = total),hjust = -.1)+
+    coord_flip()+
+    theme_classic()+
+    theme(axis.title.x=element_blank(),
+          axis.title.y=element_blank(),
+          axis.text.x=element_blank(),
+          axis.ticks.x=element_blank(),
+          line = element_blank(),
+          axis.text.y = element_text(hjust=0, face = 'bold', size = 12.5))+
+    ggtitle(paste0('Comuna ',i))
+  
+  ggsave(paste0('establecimientos//comuna_',i,'.png'), width = 16, height = 10)
+  
+}
 
 
 
@@ -285,3 +331,7 @@ for(i in 1:15){
 #   select(CUIT, baseimp, letra, nombre)
 #   
 # 
+
+
+
+

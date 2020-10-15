@@ -1,0 +1,623 @@
+comuna,actividad_comercial,total
+1,Agencias de Seguros y ART,36
+1,Agencias de turismo,122
+1,"Artículos limpieza, artículos de embalaje y pañaleras",62
+1,Art�culos para el hogar y construcci�n,1150
+1,"Autos, motos y servicios relacionados",166
+1,"Bancos, financieras, tarjetas de crédito y casas de cambios",366
+1,Centro de atención a clientes de telecomunicaciones,10
+1,"Combustibles, estaciones de servicio",18
+1,"Computación, juegos y consolas, películas, discos y CDs",197
+1,Correos públicos y privados,48
+1,Depósito con ventas web,47
+1,Enseñanza privada y/o parroquiales en todos su niveles y formatos,154
+1,"Farmacias, perfumer�as e insumos m�dicos",240
+1,"Garages, estacionamientos pagos y lavaderos de auto",422
+1,"Gimnasios, canchas de alquiler y yoga",48
+1,"Hoteles, geri�tricos y alojamiento",483
+1,"Indumentaria, accesorios, calzado y textiles",1797
+1,"Inmobiliarias y constructoras, administración de consorcios",105
+1,Instrumentos musicales (venta),58
+1,Juegos de azar,156
+1,Jugueterías,47
+1,Librerías (venta de libros y revistas),137
+1,"Librerías comerciales, fotocopias y útiles, y artística",426
+1,Local en 1º piso con accesoo / con marquesinas,262
+1,"Locales para esparcimiento (peloteros, teatros, cines, locales bailables)",88
+1,Locutorios y servicios de Internet,22
+1,Paseos de compras (puestos con estructura de metal),16
+1,"Peluquerías, manicuras,  pedicuras, centros de belleza, spas y  depilación",455
+1,"Rapipago, Pago Fácil, Bapro Pago y lugares de pago de servicios diversos excepto Bancos",51
+1,"Remises, fletes y mudanzas",21
+1,"Reparaciones en general (zapatos, electrodomésticos, ropa, etc.)",356
+1,Restaurantes y comidas,2083
+1,Salud privada,125
+1,Sepelios y funerarias,4
+1,Servicios profesionales y financieros,298
+1,Tatuajes y Piercings,14
+1,Telefonía fija y celular (venta de equipos y adicionales),132
+1,Terminales de transporte de pasajeros en general (colectivos y marítimo),6
+1,Tintorerías y lavaderos de ropa,124
+1,Venta de alimentos y bebidas,1489
+1,Viveros y jardinería,19
+1,ZZ - Otros negocios no contemplados anteriormente,77
+10,Agencias de Seguros y ART,15
+10,Agencias de turismo,10
+10,"Artículos limpieza, artículos de embalaje y pañaleras",56
+10,Art�culos para el hogar y construcci�n,517
+10,"Autos, motos y servicios relacionados",435
+10,"Bancos, financieras, tarjetas de crédito y casas de cambios",20
+10,"Combustibles, estaciones de servicio",15
+10,"Computación, juegos y consolas, películas, discos y CDs",28
+10,Correos públicos y privados,9
+10,Depósito con ventas web,25
+10,Enseñanza privada y/o parroquiales en todos su niveles y formatos,81
+10,"Farmacias, perfumer�as e insumos m�dicos",95
+10,"Garages, estacionamientos pagos y lavaderos de auto",80
+10,"Gimnasios, canchas de alquiler y yoga",39
+10,"Hoteles, geri�tricos y alojamiento",50
+10,"Indumentaria, accesorios, calzado y textiles",2505
+10,"Inmobiliarias y constructoras, administración de consorcios",127
+10,Instrumentos musicales (venta),3
+10,Juegos de azar,64
+10,Jugueterías,15
+10,Librerías (venta de libros y revistas),8
+10,"Librerías comerciales, fotocopias y útiles, y artística",99
+10,Local en 1º piso con accesoo / con marquesinas,141
+10,"Locales para esparcimiento (peloteros, teatros, cines, locales bailables)",34
+10,Locutorios y servicios de Internet,9
+10,Paseos de compras (puestos con estructura de metal),45
+10,"Peluquerías, manicuras,  pedicuras, centros de belleza, spas y  depilación",225
+10,"Rapipago, Pago Fácil, Bapro Pago y lugares de pago de servicios diversos excepto Bancos",24
+10,"Remises, fletes y mudanzas",42
+10,"Reparaciones en general (zapatos, electrodomésticos, ropa, etc.)",84
+10,Restaurantes y comidas,521
+10,Salud privada,68
+10,Sepelios y funerarias,7
+10,Servicios profesionales y financieros,187
+10,Tatuajes y Piercings,10
+10,Telefonía fija y celular (venta de equipos y adicionales),18
+10,Tintorerías y lavaderos de ropa,64
+10,Venta de alimentos y bebidas,833
+10,Viveros y jardinería,23
+10,ZZ - Otros negocios no contemplados anteriormente,22
+11,Agencias de Seguros y ART,22
+11,Agencias de turismo,17
+11,"Artículos limpieza, artículos de embalaje y pañaleras",47
+11,Art�culos para el hogar y construcci�n,502
+11,"Autos, motos y servicios relacionados",435
+11,"Bancos, financieras, tarjetas de crédito y casas de cambios",53
+11,"Combustibles, estaciones de servicio",19
+11,"Computación, juegos y consolas, películas, discos y CDs",28
+11,Correos públicos y privados,4
+11,Depósito con ventas web,22
+11,Enseñanza privada y/o parroquiales en todos su niveles y formatos,143
+11,"Farmacias, perfumer�as e insumos m�dicos",112
+11,"Garages, estacionamientos pagos y lavaderos de auto",73
+11,"Gimnasios, canchas de alquiler y yoga",54
+11,"Hoteles, geri�tricos y alojamiento",32
+11,"Indumentaria, accesorios, calzado y textiles",621
+11,"Inmobiliarias y constructoras, administración de consorcios",158
+11,Instrumentos musicales (venta),3
+11,Juegos de azar,73
+11,Jugueterías,26
+11,Librerías (venta de libros y revistas),15
+11,"Librerías comerciales, fotocopias y útiles, y artística",109
+11,Local en 1º piso con accesoo / con marquesinas,72
+11,"Locales para esparcimiento (peloteros, teatros, cines, locales bailables)",35
+11,Locutorios y servicios de Internet,6
+11,"Peluquerías, manicuras,  pedicuras, centros de belleza, spas y  depilación",328
+11,"Rapipago, Pago Fácil, Bapro Pago y lugares de pago de servicios diversos excepto Bancos",28
+11,"Remises, fletes y mudanzas",29
+11,"Reparaciones en general (zapatos, electrodomésticos, ropa, etc.)",116
+11,Restaurantes y comidas,586
+11,Salud privada,109
+11,Sepelios y funerarias,13
+11,Servicios profesionales y financieros,218
+11,Tatuajes y Piercings,9
+11,Telefonía fija y celular (venta de equipos y adicionales),30
+11,Tintorerías y lavaderos de ropa,78
+11,Venta de alimentos y bebidas,901
+11,Viveros y jardinería,24
+11,ZZ - Otros negocios no contemplados anteriormente,30
+12,Agencias de Seguros y ART,16
+12,Agencias de turismo,20
+12,"Artículos limpieza, artículos de embalaje y pañaleras",42
+12,Art�culos para el hogar y construcci�n,441
+12,"Autos, motos y servicios relacionados",407
+12,"Bancos, financieras, tarjetas de crédito y casas de cambios",35
+12,Centro de atención a clientes de telecomunicaciones,1
+12,"Combustibles, estaciones de servicio",18
+12,"Computación, juegos y consolas, películas, discos y CDs",32
+12,Correos públicos y privados,12
+12,Depósito con ventas web,12
+12,Enseñanza privada y/o parroquiales en todos su niveles y formatos,144
+12,"Farmacias, perfumer�as e insumos m�dicos",103
+12,"Garages, estacionamientos pagos y lavaderos de auto",69
+12,"Gimnasios, canchas de alquiler y yoga",54
+12,"Hoteles, geri�tricos y alojamiento",38
+12,"Indumentaria, accesorios, calzado y textiles",613
+12,"Inmobiliarias y constructoras, administración de consorcios",175
+12,Instrumentos musicales (venta),4
+12,Juegos de azar,65
+12,Jugueterías,22
+12,Librerías (venta de libros y revistas),13
+12,"Librerías comerciales, fotocopias y útiles, y artística",117
+12,Local en 1º piso con accesoo / con marquesinas,42
+12,"Locales para esparcimiento (peloteros, teatros, cines, locales bailables)",39
+12,Locutorios y servicios de Internet,8
+12,Paseos de compras (puestos con estructura de metal),3
+12,"Peluquerías, manicuras,  pedicuras, centros de belleza, spas y  depilación",296
+12,"Rapipago, Pago Fácil, Bapro Pago y lugares de pago de servicios diversos excepto Bancos",21
+12,"Remises, fletes y mudanzas",24
+12,"Reparaciones en general (zapatos, electrodomésticos, ropa, etc.)",101
+12,Restaurantes y comidas,624
+12,Salud privada,92
+12,Sepelios y funerarias,15
+12,Servicios profesionales y financieros,208
+12,Tatuajes y Piercings,5
+12,Telefonía fija y celular (venta de equipos y adicionales),27
+12,Tintorerías y lavaderos de ropa,80
+12,Venta de alimentos y bebidas,859
+12,Viveros y jardinería,17
+12,ZZ - Otros negocios no contemplados anteriormente,34
+13,Agencias de Seguros y ART,9
+13,Agencias de turismo,30
+13,"Artículos limpieza, artículos de embalaje y pañaleras",47
+13,Art�culos para el hogar y construcci�n,620
+13,"Autos, motos y servicios relacionados",150
+13,"Bancos, financieras, tarjetas de crédito y casas de cambios",78
+13,Centro de atención a clientes de telecomunicaciones,5
+13,"Combustibles, estaciones de servicio",13
+13,"Computación, juegos y consolas, películas, discos y CDs",72
+13,Correos públicos y privados,9
+13,Depósito con ventas web,15
+13,Enseñanza privada y/o parroquiales en todos su niveles y formatos,186
+13,"Farmacias, perfumer�as e insumos m�dicos",147
+13,"Garages, estacionamientos pagos y lavaderos de auto",109
+13,"Gimnasios, canchas de alquiler y yoga",52
+13,"Hoteles, geri�tricos y alojamiento",61
+13,"Indumentaria, accesorios, calzado y textiles",898
+13,"Inmobiliarias y constructoras, administración de consorcios",211
+13,Instrumentos musicales (venta),7
+13,Juegos de azar,66
+13,Jugueterías,54
+13,Librerías (venta de libros y revistas),31
+13,"Librerías comerciales, fotocopias y útiles, y artística",126
+13,Local en 1º piso con accesoo / con marquesinas,89
+13,"Locales para esparcimiento (peloteros, teatros, cines, locales bailables)",38
+13,Locutorios y servicios de Internet,10
+13,Paseos de compras (puestos con estructura de metal),1
+13,"Peluquerías, manicuras,  pedicuras, centros de belleza, spas y  depilación",479
+13,"Rapipago, Pago Fácil, Bapro Pago y lugares de pago de servicios diversos excepto Bancos",20
+13,"Remises, fletes y mudanzas",23
+13,"Reparaciones en general (zapatos, electrodomésticos, ropa, etc.)",180
+13,Restaurantes y comidas,932
+13,Salud privada,142
+13,Sepelios y funerarias,7
+13,Servicios profesionales y financieros,220
+13,Tatuajes y Piercings,18
+13,Telefonía fija y celular (venta de equipos y adicionales),54
+13,Tintorerías y lavaderos de ropa,128
+13,Venta de alimentos y bebidas,1005
+13,Viveros y jardinería,18
+13,ZZ - Otros negocios no contemplados anteriormente,72
+14,Agencias de Seguros y ART,6
+14,Agencias de turismo,27
+14,"Artículos limpieza, artículos de embalaje y pañaleras",27
+14,Art�culos para el hogar y construcci�n,559
+14,"Autos, motos y servicios relacionados",150
+14,"Bancos, financieras, tarjetas de crédito y casas de cambios",79
+14,Centro de atención a clientes de telecomunicaciones,4
+14,"Combustibles, estaciones de servicio",11
+14,"Computación, juegos y consolas, películas, discos y CDs",37
+14,Correos públicos y privados,8
+14,Depósito con ventas web,11
+14,Enseñanza privada y/o parroquiales en todos su niveles y formatos,201
+14,"Farmacias, perfumer�as e insumos m�dicos",184
+14,"Garages, estacionamientos pagos y lavaderos de auto",128
+14,"Gimnasios, canchas de alquiler y yoga",77
+14,"Hoteles, geri�tricos y alojamiento",136
+14,"Indumentaria, accesorios, calzado y textiles",1177
+14,"Inmobiliarias y constructoras, administración de consorcios",197
+14,Instrumentos musicales (venta),2
+14,Juegos de azar,75
+14,Jugueterías,44
+14,Librerías (venta de libros y revistas),42
+14,"Librerías comerciales, fotocopias y útiles, y artística",120
+14,Local en 1º piso con accesoo / con marquesinas,241
+14,"Locales para esparcimiento (peloteros, teatros, cines, locales bailables)",57
+14,Locutorios y servicios de Internet,5
+14,Paseos de compras (puestos con estructura de metal),4
+14,"Peluquerías, manicuras,  pedicuras, centros de belleza, spas y  depilación",486
+14,"Rapipago, Pago Fácil, Bapro Pago y lugares de pago de servicios diversos excepto Bancos",29
+14,"Remises, fletes y mudanzas",6
+14,"Reparaciones en general (zapatos, electrodomésticos, ropa, etc.)",152
+14,Restaurantes y comidas,1381
+14,Salud privada,110
+14,Sepelios y funerarias,9
+14,Servicios profesionales y financieros,228
+14,Tatuajes y Piercings,18
+14,Telefonía fija y celular (venta de equipos y adicionales),60
+14,Terminales de transporte de pasajeros en general (colectivos y marítimo),3
+14,Tintorerías y lavaderos de ropa,142
+14,Venta de alimentos y bebidas,1122
+14,Viveros y jardinería,32
+14,ZZ - Otros negocios no contemplados anteriormente,31
+15,Agencias de Seguros y ART,15
+15,Agencias de turismo,12
+15,"Artículos limpieza, artículos de embalaje y pañaleras",51
+15,Art�culos para el hogar y construcci�n,670
+15,"Autos, motos y servicios relacionados",1075
+15,"Bancos, financieras, tarjetas de crédito y casas de cambios",55
+15,Centro de atención a clientes de telecomunicaciones,2
+15,"Combustibles, estaciones de servicio",23
+15,"Computación, juegos y consolas, películas, discos y CDs",41
+15,Correos públicos y privados,20
+15,Depósito con ventas web,32
+15,Enseñanza privada y/o parroquiales en todos su niveles y formatos,160
+15,"Farmacias, perfumer�as e insumos m�dicos",99
+15,"Garages, estacionamientos pagos y lavaderos de auto",111
+15,"Gimnasios, canchas de alquiler y yoga",61
+15,"Hoteles, geri�tricos y alojamiento",42
+15,"Indumentaria, accesorios, calzado y textiles",717
+15,"Inmobiliarias y constructoras, administración de consorcios",128
+15,Instrumentos musicales (venta),3
+15,Juegos de azar,71
+15,Jugueterías,15
+15,Librerías (venta de libros y revistas),24
+15,"Librerías comerciales, fotocopias y útiles, y artística",144
+15,Local en 1º piso con accesoo / con marquesinas,70
+15,"Locales para esparcimiento (peloteros, teatros, cines, locales bailables)",39
+15,Locutorios y servicios de Internet,10
+15,Paseos de compras (puestos con estructura de metal),2
+15,"Peluquerías, manicuras,  pedicuras, centros de belleza, spas y  depilación",282
+15,"Rapipago, Pago Fácil, Bapro Pago y lugares de pago de servicios diversos excepto Bancos",17
+15,"Remises, fletes y mudanzas",48
+15,"Reparaciones en general (zapatos, electrodomésticos, ropa, etc.)",139
+15,Restaurantes y comidas,717
+15,Salud privada,93
+15,Sepelios y funerarias,15
+15,Servicios profesionales y financieros,183
+15,Tatuajes y Piercings,8
+15,Telefonía fija y celular (venta de equipos y adicionales),14
+15,Terminales de transporte de pasajeros en general (colectivos y marítimo),6
+15,Tintorerías y lavaderos de ropa,111
+15,Venta de alimentos y bebidas,909
+15,Viveros y jardinería,21
+15,ZZ - Otros negocios no contemplados anteriormente,69
+2,Agencias de Seguros y ART,4
+2,Agencias de turismo,21
+2,"Artículos limpieza, artículos de embalaje y pañaleras",14
+2,Art�culos para el hogar y construcci�n,423
+2,"Autos, motos y servicios relacionados",25
+2,"Bancos, financieras, tarjetas de crédito y casas de cambios",87
+2,Centro de atención a clientes de telecomunicaciones,6
+2,"Combustibles, estaciones de servicio",4
+2,"Computación, juegos y consolas, películas, discos y CDs",28
+2,Correos públicos y privados,5
+2,Depósito con ventas web,5
+2,Enseñanza privada y/o parroquiales en todos su niveles y formatos,100
+2,"Farmacias, perfumer�as e insumos m�dicos",192
+2,"Garages, estacionamientos pagos y lavaderos de auto",104
+2,"Gimnasios, canchas de alquiler y yoga",48
+2,"Hoteles, geri�tricos y alojamiento",94
+2,"Indumentaria, accesorios, calzado y textiles",957
+2,"Inmobiliarias y constructoras, administración de consorcios",137
+2,Instrumentos musicales (venta),5
+2,Juegos de azar,63
+2,Jugueterías,22
+2,Librerías (venta de libros y revistas),53
+2,"Librerías comerciales, fotocopias y útiles, y artística",122
+2,Local en 1º piso con accesoo / con marquesinas,69
+2,"Locales para esparcimiento (peloteros, teatros, cines, locales bailables)",14
+2,Locutorios y servicios de Internet,7
+2,Paseos de compras (puestos con estructura de metal),1
+2,"Peluquerías, manicuras,  pedicuras, centros de belleza, spas y  depilación",389
+2,"Rapipago, Pago Fácil, Bapro Pago y lugares de pago de servicios diversos excepto Bancos",24
+2,"Remises, fletes y mudanzas",2
+2,"Reparaciones en general (zapatos, electrodomésticos, ropa, etc.)",128
+2,Restaurantes y comidas,690
+2,Salud privada,142
+2,Sepelios y funerarias,5
+2,Servicios profesionales y financieros,161
+2,Tatuajes y Piercings,5
+2,Telefonía fija y celular (venta de equipos y adicionales),52
+2,Tintorerías y lavaderos de ropa,113
+2,Venta de alimentos y bebidas,768
+2,Viveros y jardinería,10
+2,ZZ - Otros negocios no contemplados anteriormente,11
+3,Agencias de Seguros y ART,7
+3,Agencias de turismo,59
+3,"Artículos limpieza, artículos de embalaje y pañaleras",75
+3,Art�culos para el hogar y construcci�n,1105
+3,"Autos, motos y servicios relacionados",167
+3,"Bancos, financieras, tarjetas de crédito y casas de cambios",74
+3,Centro de atención a clientes de telecomunicaciones,5
+3,"Combustibles, estaciones de servicio",14
+3,"Computación, juegos y consolas, películas, discos y CDs",76
+3,Correos públicos y privados,17
+3,Depósito con ventas web,28
+3,Enseñanza privada y/o parroquiales en todos su niveles y formatos,136
+3,"Farmacias, perfumer�as e insumos m�dicos",225
+3,"Garages, estacionamientos pagos y lavaderos de auto",261
+3,"Gimnasios, canchas de alquiler y yoga",36
+3,"Hoteles, geri�tricos y alojamiento",273
+3,"Indumentaria, accesorios, calzado y textiles",2469
+3,"Inmobiliarias y constructoras, administración de consorcios",98
+3,Instrumentos musicales (venta),1
+3,Juegos de azar,105
+3,Jugueterías,200
+3,Librerías (venta de libros y revistas),57
+3,"Librerías comerciales, fotocopias y útiles, y artística",253
+3,Local en 1º piso con accesoo / con marquesinas,41
+3,"Locales para esparcimiento (peloteros, teatros, cines, locales bailables)",38
+3,Locutorios y servicios de Internet,25
+3,Paseos de compras (puestos con estructura de metal),27
+3,"Peluquerías, manicuras,  pedicuras, centros de belleza, spas y  depilación",353
+3,"Rapipago, Pago Fácil, Bapro Pago y lugares de pago de servicios diversos excepto Bancos",35
+3,"Remises, fletes y mudanzas",20
+3,"Reparaciones en general (zapatos, electrodomésticos, ropa, etc.)",137
+3,Restaurantes y comidas,853
+3,Salud privada,140
+3,Sepelios y funerarias,8
+3,Servicios profesionales y financieros,198
+3,Tatuajes y Piercings,4
+3,Telefonía fija y celular (venta de equipos y adicionales),236
+3,Terminales de transporte de pasajeros en general (colectivos y marítimo),4
+3,Tintorerías y lavaderos de ropa,133
+3,Venta de alimentos y bebidas,1076
+3,Viveros y jardinería,16
+3,ZZ - Otros negocios no contemplados anteriormente,35
+4,Agencias de Seguros y ART,17
+4,Agencias de turismo,2
+4,"Artículos limpieza, artículos de embalaje y pañaleras",51
+4,Art�culos para el hogar y construcci�n,414
+4,"Autos, motos y servicios relacionados",496
+4,"Bancos, financieras, tarjetas de crédito y casas de cambios",56
+4,Centro de atención a clientes de telecomunicaciones,2
+4,"Combustibles, estaciones de servicio",29
+4,"Computación, juegos y consolas, películas, discos y CDs",25
+4,Correos públicos y privados,18
+4,Depósito con ventas web,23
+4,Enseñanza privada y/o parroquiales en todos su niveles y formatos,87
+4,"Farmacias, perfumer�as e insumos m�dicos",91
+4,"Garages, estacionamientos pagos y lavaderos de auto",100
+4,"Gimnasios, canchas de alquiler y yoga",17
+4,"Hoteles, geri�tricos y alojamiento",45
+4,"Indumentaria, accesorios, calzado y textiles",445
+4,"Inmobiliarias y constructoras, administración de consorcios",85
+4,Instrumentos musicales (venta),3
+4,Juegos de azar,75
+4,Jugueterías,16
+4,Librerías (venta de libros y revistas),6
+4,"Librerías comerciales, fotocopias y útiles, y artística",93
+4,Local en 1º piso con accesoo / con marquesinas,116
+4,"Locales para esparcimiento (peloteros, teatros, cines, locales bailables)",14
+4,Locutorios y servicios de Internet,9
+4,Paseos de compras (puestos con estructura de metal),10
+4,"Peluquerías, manicuras,  pedicuras, centros de belleza, spas y  depilación",229
+4,"Rapipago, Pago Fácil, Bapro Pago y lugares de pago de servicios diversos excepto Bancos",21
+4,"Remises, fletes y mudanzas",41
+4,"Reparaciones en general (zapatos, electrodomésticos, ropa, etc.)",97
+4,Restaurantes y comidas,643
+4,Salud privada,73
+4,Sepelios y funerarias,11
+4,Servicios profesionales y financieros,139
+4,Tatuajes y Piercings,7
+4,Telefonía fija y celular (venta de equipos y adicionales),27
+4,Terminales de transporte de pasajeros en general (colectivos y marítimo),22
+4,Tintorerías y lavaderos de ropa,44
+4,Venta de alimentos y bebidas,865
+4,Viveros y jardinería,7
+4,ZZ - Otros negocios no contemplados anteriormente,21
+5,Agencias de Seguros y ART,11
+5,Agencias de turismo,9
+5,"Artículos limpieza, artículos de embalaje y pañaleras",53
+5,Art�culos para el hogar y construcci�n,412
+5,"Autos, motos y servicios relacionados",258
+5,"Bancos, financieras, tarjetas de crédito y casas de cambios",38
+5,Centro de atención a clientes de telecomunicaciones,1
+5,"Combustibles, estaciones de servicio",13
+5,"Computación, juegos y consolas, películas, discos y CDs",36
+5,Correos públicos y privados,5
+5,Depósito con ventas web,18
+5,Enseñanza privada y/o parroquiales en todos su niveles y formatos,135
+5,"Farmacias, perfumer�as e insumos m�dicos",107
+5,"Garages, estacionamientos pagos y lavaderos de auto",152
+5,"Gimnasios, canchas de alquiler y yoga",35
+5,"Hoteles, geri�tricos y alojamiento",113
+5,"Indumentaria, accesorios, calzado y textiles",489
+5,"Inmobiliarias y constructoras, administración de consorcios",120
+5,Instrumentos musicales (venta),4
+5,Juegos de azar,81
+5,Jugueterías,19
+5,Librerías (venta de libros y revistas),26
+5,"Librerías comerciales, fotocopias y útiles, y artística",129
+5,Local en 1º piso con accesoo / con marquesinas,72
+5,"Locales para esparcimiento (peloteros, teatros, cines, locales bailables)",33
+5,Locutorios y servicios de Internet,6
+5,Paseos de compras (puestos con estructura de metal),1
+5,"Peluquerías, manicuras,  pedicuras, centros de belleza, spas y  depilación",316
+5,"Rapipago, Pago Fácil, Bapro Pago y lugares de pago de servicios diversos excepto Bancos",24
+5,"Remises, fletes y mudanzas",16
+5,"Reparaciones en general (zapatos, electrodomésticos, ropa, etc.)",156
+5,Restaurantes y comidas,611
+5,Salud privada,109
+5,Sepelios y funerarias,11
+5,Servicios profesionales y financieros,168
+5,Tatuajes y Piercings,11
+5,Telefonía fija y celular (venta de equipos y adicionales),27
+5,Terminales de transporte de pasajeros en general (colectivos y marítimo),2
+5,Tintorerías y lavaderos de ropa,116
+5,Venta de alimentos y bebidas,876
+5,Viveros y jardinería,40
+5,ZZ - Otros negocios no contemplados anteriormente,28
+6,Agencias de Seguros y ART,9
+6,Agencias de turismo,15
+6,"Artículos limpieza, artículos de embalaje y pañaleras",45
+6,Art�culos para el hogar y construcci�n,318
+6,"Autos, motos y servicios relacionados",109
+6,"Bancos, financieras, tarjetas de crédito y casas de cambios",36
+6,Centro de atención a clientes de telecomunicaciones,4
+6,"Combustibles, estaciones de servicio",14
+6,"Computación, juegos y consolas, películas, discos y CDs",33
+6,Correos públicos y privados,7
+6,Depósito con ventas web,21
+6,Enseñanza privada y/o parroquiales en todos su niveles y formatos,129
+6,"Farmacias, perfumer�as e insumos m�dicos",108
+6,"Garages, estacionamientos pagos y lavaderos de auto",95
+6,"Gimnasios, canchas de alquiler y yoga",34
+6,"Hoteles, geri�tricos y alojamiento",60
+6,"Indumentaria, accesorios, calzado y textiles",576
+6,"Inmobiliarias y constructoras, administración de consorcios",164
+6,Instrumentos musicales (venta),4
+6,Juegos de azar,68
+6,Jugueterías,28
+6,Librerías (venta de libros y revistas),20
+6,"Librerías comerciales, fotocopias y útiles, y artística",101
+6,Local en 1º piso con accesoo / con marquesinas,80
+6,"Locales para esparcimiento (peloteros, teatros, cines, locales bailables)",29
+6,Locutorios y servicios de Internet,7
+6,Paseos de compras (puestos con estructura de metal),1
+6,"Peluquerías, manicuras,  pedicuras, centros de belleza, spas y  depilación",341
+6,"Rapipago, Pago Fácil, Bapro Pago y lugares de pago de servicios diversos excepto Bancos",22
+6,"Remises, fletes y mudanzas",17
+6,"Reparaciones en general (zapatos, electrodomésticos, ropa, etc.)",145
+6,Restaurantes y comidas,560
+6,Salud privada,82
+6,Sepelios y funerarias,6
+6,Servicios profesionales y financieros,168
+6,Tatuajes y Piercings,15
+6,Telefonía fija y celular (venta de equipos y adicionales),32
+6,Tintorerías y lavaderos de ropa,98
+6,Venta de alimentos y bebidas,785
+6,Viveros y jardinería,12
+6,ZZ - Otros negocios no contemplados anteriormente,17
+7,Agencias de Seguros y ART,15
+7,Agencias de turismo,15
+7,"Artículos limpieza, artículos de embalaje y pañaleras",63
+7,Art�culos para el hogar y construcci�n,443
+7,"Autos, motos y servicios relacionados",285
+7,"Bancos, financieras, tarjetas de crédito y casas de cambios",47
+7,Centro de atención a clientes de telecomunicaciones,2
+7,"Combustibles, estaciones de servicio",14
+7,"Computación, juegos y consolas, películas, discos y CDs",36
+7,Correos públicos y privados,13
+7,Depósito con ventas web,24
+7,Enseñanza privada y/o parroquiales en todos su niveles y formatos,123
+7,"Farmacias, perfumer�as e insumos m�dicos",113
+7,"Garages, estacionamientos pagos y lavaderos de auto",145
+7,"Gimnasios, canchas de alquiler y yoga",38
+7,"Hoteles, geri�tricos y alojamiento",102
+7,"Indumentaria, accesorios, calzado y textiles",2462
+7,"Inmobiliarias y constructoras, administración de consorcios",132
+7,Instrumentos musicales (venta),3
+7,Juegos de azar,85
+7,Jugueterías,20
+7,Librerías (venta de libros y revistas),13
+7,"Librerías comerciales, fotocopias y útiles, y artística",114
+7,Local en 1º piso con accesoo / con marquesinas,234
+7,"Locales para esparcimiento (peloteros, teatros, cines, locales bailables)",23
+7,Locutorios y servicios de Internet,19
+7,Paseos de compras (puestos con estructura de metal),37
+7,"Peluquerías, manicuras,  pedicuras, centros de belleza, spas y  depilación",301
+7,"Rapipago, Pago Fácil, Bapro Pago y lugares de pago de servicios diversos excepto Bancos",26
+7,"Remises, fletes y mudanzas",36
+7,"Reparaciones en general (zapatos, electrodomésticos, ropa, etc.)",123
+7,Restaurantes y comidas,566
+7,Salud privada,95
+7,Sepelios y funerarias,8
+7,Servicios profesionales y financieros,205
+7,Tatuajes y Piercings,11
+7,Telefonía fija y celular (venta de equipos y adicionales),42
+7,Terminales de transporte de pasajeros en general (colectivos y marítimo),6
+7,Tintorerías y lavaderos de ropa,82
+7,Venta de alimentos y bebidas,898
+7,Viveros y jardinería,21
+7,ZZ - Otros negocios no contemplados anteriormente,33
+8,Agencias de Seguros y ART,21
+8,Agencias de turismo,4
+8,"Artículos limpieza, artículos de embalaje y pañaleras",46
+8,Art�culos para el hogar y construcci�n,227
+8,"Autos, motos y servicios relacionados",282
+8,"Bancos, financieras, tarjetas de crédito y casas de cambios",11
+8,Centro de atención a clientes de telecomunicaciones,1
+8,"Combustibles, estaciones de servicio",13
+8,"Computación, juegos y consolas, películas, discos y CDs",8
+8,Correos públicos y privados,8
+8,Depósito con ventas web,12
+8,Enseñanza privada y/o parroquiales en todos su niveles y formatos,45
+8,"Farmacias, perfumer�as e insumos m�dicos",43
+8,"Garages, estacionamientos pagos y lavaderos de auto",22
+8,"Gimnasios, canchas de alquiler y yoga",14
+8,"Hoteles, geri�tricos y alojamiento",4
+8,"Indumentaria, accesorios, calzado y textiles",367
+8,"Inmobiliarias y constructoras, administración de consorcios",56
+8,Instrumentos musicales (venta),3
+8,Juegos de azar,44
+8,Jugueterías,9
+8,Librerías (venta de libros y revistas),2
+8,"Librerías comerciales, fotocopias y útiles, y artística",56
+8,Local en 1º piso con accesoo / con marquesinas,153
+8,"Locales para esparcimiento (peloteros, teatros, cines, locales bailables)",16
+8,Locutorios y servicios de Internet,8
+8,Paseos de compras (puestos con estructura de metal),1
+8,"Peluquerías, manicuras,  pedicuras, centros de belleza, spas y  depilación",171
+8,"Rapipago, Pago Fácil, Bapro Pago y lugares de pago de servicios diversos excepto Bancos",16
+8,"Remises, fletes y mudanzas",60
+8,"Reparaciones en general (zapatos, electrodomésticos, ropa, etc.)",45
+8,Restaurantes y comidas,272
+8,Salud privada,62
+8,Sepelios y funerarias,2
+8,Servicios profesionales y financieros,134
+8,Tatuajes y Piercings,9
+8,Telefonía fija y celular (venta de equipos y adicionales),17
+8,Terminales de transporte de pasajeros en general (colectivos y marítimo),5
+8,Tintorerías y lavaderos de ropa,26
+8,Venta de alimentos y bebidas,570
+8,Viveros y jardinería,8
+8,ZZ - Otros negocios no contemplados anteriormente,14
+9,Agencias de Seguros y ART,25
+9,Agencias de turismo,18
+9,"Artículos limpieza, artículos de embalaje y pañaleras",66
+9,Art�culos para el hogar y construcci�n,478
+9,"Autos, motos y servicios relacionados",492
+9,"Bancos, financieras, tarjetas de crédito y casas de cambios",51
+9,Centro de atención a clientes de telecomunicaciones,3
+9,"Combustibles, estaciones de servicio",22
+9,"Computación, juegos y consolas, películas, discos y CDs",26
+9,Correos públicos y privados,16
+9,Depósito con ventas web,27
+9,Enseñanza privada y/o parroquiales en todos su niveles y formatos,91
+9,"Farmacias, perfumer�as e insumos m�dicos",103
+9,"Garages, estacionamientos pagos y lavaderos de auto",40
+9,"Gimnasios, canchas de alquiler y yoga",34
+9,"Hoteles, geri�tricos y alojamiento",35
+9,"Indumentaria, accesorios, calzado y textiles",593
+9,"Inmobiliarias y constructoras, administración de consorcios",133
+9,Instrumentos musicales (venta),3
+9,Juegos de azar,65
+9,Jugueterías,17
+9,Librerías (venta de libros y revistas),7
+9,"Librerías comerciales, fotocopias y útiles, y artística",92
+9,Local en 1º piso con accesoo / con marquesinas,138
+9,"Locales para esparcimiento (peloteros, teatros, cines, locales bailables)",24
+9,Locutorios y servicios de Internet,18
+9,Paseos de compras (puestos con estructura de metal),5
+9,"Peluquerías, manicuras,  pedicuras, centros de belleza, spas y  depilación",276
+9,"Rapipago, Pago Fácil, Bapro Pago y lugares de pago de servicios diversos excepto Bancos",29
+9,"Remises, fletes y mudanzas",44
+9,"Reparaciones en general (zapatos, electrodomésticos, ropa, etc.)",97
+9,Restaurantes y comidas,500
+9,Salud privada,99
+9,Sepelios y funerarias,12
+9,Servicios profesionales y financieros,187
+9,Tatuajes y Piercings,15
+9,Telefonía fija y celular (venta de equipos y adicionales),40
+9,Terminales de transporte de pasajeros en general (colectivos y marítimo),2
+9,Tintorerías y lavaderos de ropa,43
+9,Venta de alimentos y bebidas,973
+9,Viveros y jardinería,19
+9,ZZ - Otros negocios no contemplados anteriormente,43
+Total,-,91977
